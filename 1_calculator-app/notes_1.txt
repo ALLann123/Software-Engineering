@@ -1,0 +1,19 @@
+=========Calculator===============
+- Learn:
+> DOM selection
+> event listeners
+> basic operators
+
+=====Notice=====
+class="btn"
+- We use in JS to grab all buttons at once with:
+	`document.querySelectorAll('.btn')`
+
+data-value attribute
+- Is the actual value it represents.
+Contains a vale e.g + to represent +
+- In JS we'll read it with:
+	button.dataset.value
+
+equals and zero buttons
+- Has extra classes because we'll style them slightly differently.

@@ -1,0 +1,12 @@
+=====To-Do-List APP=======
+- Learn:
+> Creating and removing HTML elements dynamically from JavaScript.
+> Working with an array as your data source instead of a single string
+
+====Code=====
+<uv id="taskList"></uv>
+- Is empty because JavaScript will build the list items itself
+one per task.
+- This is the core new concept  will be in 'script.js'
+
+
